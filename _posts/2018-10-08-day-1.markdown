@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 1"
+date:   2018-10-08 00:16:10 -0400
+categories: 100DaysOfCode Day1
+---
+I code fairly regularly but I never really focused on the foundational pieces since getting back into it a few years ago.  I had learned HTML and basic CSS many years ago, picked up some ASP.NET along the way and some Powershell skills.  A few years ago I picked up on coding more heavily and jumped into the deep end with JavaScript, primarily focused on Angular.  I picked up some NodeJS (ExpressJS), DotNet Core (WebAPI) skills but my work was pretty basic.  I realized that I couldn't effectively create visually appealing sites that with some frameworks, UI or otherwise.  
+
+As this is my passion and something I look to do permantently, I decided that the #100DaysOfCoding challenge would be a good tool to focus my efforts.  It can't hurt to force the social aspects of the challenge as well.  So during this challenge, I'll be focusing on the basics a lot of HTML and CSS.  A lot of that will be going through FreeCodeCamp modules and PluralSight courses.
+
+# Day 1
+Got back online with FreeCodeCamp and plowed through a bunch of modules.
