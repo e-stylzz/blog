@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 2"
+date:   2018-10-09 00:16:10 -0400
+categories: 100DaysOfCode Day2
+---
+# Day 2
+Worked some modules in FreeCodeCamp again, all CSS.  The primary focus was animation and other "advanced" features.  I'm actually pretty amazed at what you can do with CSS now.  Now I have to refrain from animating everything
+
+### Related but not code:
+Setup GitHub Pages
+Setup this sweet Jekyll blog
+Setup some websites in Azure, DNS, Certs, and some CI/CD pipelines in Azure Dev Ops
+
+### Really not related to code but fun tech:
+Setup a customer on Office 365 for Email with a custom domain.
