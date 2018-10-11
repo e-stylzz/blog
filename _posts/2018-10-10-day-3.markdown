@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 3"
+date:   2018-10-10 00:16:10 -0400
+categories: 100DaysOfCode Day3
+---
+# Day 3
+Setup Jekyll via GitHub Pages and played around with some markdown to setup this blog.  
+Started doing a little unplublished work on my portfolio that will be hosted with GitHub Pages.  
+Finished Applied Visual Design on FreeCodeCamp.  
