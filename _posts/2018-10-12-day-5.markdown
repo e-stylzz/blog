@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 5"
+date:   2018-10-12 00:16:10 -0400
+categories: 100DaysOfCode Day5
+---
+# Day 5
+Freecodecamp again.  Finished Accessibility and Responsive web design moduldes.  Looking forward to flex / grid this weekend.  Again, not much coding but this weekend should be fun.  
+
+#### Weekend Todos (hopefully)  
+Flex & Grid Modules  
+Finish some sort of landing page, basic AF  
+Maybe add a module to the kids game I've been working on (Angular)    

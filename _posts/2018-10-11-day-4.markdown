@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 4"
+date:   2018-10-11 00:16:10 -0400
+categories: 100DaysOfCode Day4
+---
+# Day 4
+Just worked through some modules on FreeCodeCamp regarding accessibility.  Pretty slow day for coding due to some work stuff.  Oh, played around with my portfolio/landing page a bit.    
