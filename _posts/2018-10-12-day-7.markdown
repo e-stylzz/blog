@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Day 7 - Flex & Grid"
+date:   2018-10-13 00:16:10 -0400
+categories: 100DaysOfCode Day7
+---
+# Day 7
+Went through the modules for CSS FlexBox and CSS Grid.  Spent a little timing playing around with each of them. 
+   

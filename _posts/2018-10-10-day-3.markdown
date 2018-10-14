@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 3"
+title:  "Day 3 - Jekyll & Portfolio"
 date:   2018-10-10 00:16:10 -0400
 categories: 100DaysOfCode Day3
 ---

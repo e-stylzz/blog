@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Day 6 - Kid's Game"
+date:   2018-10-13 00:16:10 -0400
+categories: 100DaysOfCode Day6
+---
+# Day 6
+Worked on my Kid's Game (Angular).  Created a new game module, a level 2 dinosaur game more geared toward reading.  
+   
