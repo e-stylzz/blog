@@ -2,8 +2,10 @@
 layout: post
 title:  "Day 7 - Flex & Grid"
 date:   2018-10-13 00:16:10 -0400
-categories: 100DaysOfCode Day7
+categories: 100DaysOfCode Day7 Connor
 ---
 # Day 7
 Went through the modules for CSS FlexBox and CSS Grid.  Spent a little timing playing around with each of them. 
+
+I also built a basic HTML page with CSS for my son.  Let him pick pages the build, the topics, colors, etc.  Great experience.  This was very very cool.
    
